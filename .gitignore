@@ -3,6 +3,7 @@
 .bundle
 .config
 .yardoc
+.vagrant
 InstalledFiles
 _yardoc
 coverage
@@ -16,3 +17,4 @@ test/version_tmp
 tmp
 html
 vendor
+*~
